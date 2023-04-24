@@ -6,6 +6,7 @@ const Index = () => {
             <div className="navbar">
                 <A href='/' text="Главная"/>
                 <A href='../pages/photos.js' text="Коллекция"/>
+                Denis 
                 
             </div>
          <h1>Главная страница</h1>
