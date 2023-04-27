@@ -8,6 +8,8 @@ const Index = () => {
         <A href="/photos" text="Коллекция" />
       </div>
       <h1>Главная страница</h1>
+      Denchik
+      
     </div>
   );
 };
